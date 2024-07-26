@@ -1,0 +1,2740 @@
+{
+    "1904": [
+        {
+            "name": "Yellowstone",
+            "visitors": 13727.0
+        }
+    ],
+    "1905": [
+        {
+            "name": "Yellowstone",
+            "visitors": 26188.0
+        }
+    ],
+    "1906": [
+        {
+            "name": "Yosemite",
+            "visitors": 5414.0
+        },
+        {
+            "name": "Yellowstone",
+            "visitors": 17182.0
+        }
+    ],
+    "1907": [
+        {
+            "name": "Yellowstone",
+            "visitors": 16414.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 7102.0
+        }
+    ],
+    "1908": [
+        {
+            "name": "Yellowstone",
+            "visitors": 19542.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 8850.0
+        }
+    ],
+    "1909": [
+        {
+            "name": "Yellowstone",
+            "visitors": 32545.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 13182.0
+        }
+    ],
+    "1910": [
+        {
+            "name": "Yellowstone",
+            "visitors": 19575.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 13619.0
+        }
+    ],
+    "1911": [
+        {
+            "name": "Glacier",
+            "visitors": 4000.0
+        },
+        {
+            "name": "Yellowstone",
+            "visitors": 23054.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 12530.0
+        }
+    ],
+    "1912": [
+        {
+            "name": "Yellowstone",
+            "visitors": 22970.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 10884.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 6257.0
+        }
+    ],
+    "1913": [
+        {
+            "name": "Yellowstone",
+            "visitors": 24929.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 13735.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 12138.0
+        }
+    ],
+    "1914": [
+        {
+            "name": "Yellowstone",
+            "visitors": 20250.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 15145.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 14168.0
+        }
+    ],
+    "1915": [
+        {
+            "name": "Rocky Mountain",
+            "visitors": 31000.0
+        },
+        {
+            "name": "Yellowstone",
+            "visitors": 51895.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 33452.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 14265.0
+        }
+    ],
+    "1916": [
+        {
+            "name": "Yellowstone",
+            "visitors": 35849.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 51000.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 33390.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 12839.0
+        }
+    ],
+    "1917": [
+        {
+            "name": "Yellowstone",
+            "visitors": 35400.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 117186.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 34510.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 18387.0
+        }
+    ],
+    "1918": [
+        {
+            "name": "Yellowstone",
+            "visitors": 21275.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 101497.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 33527.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 9086.0
+        }
+    ],
+    "1919": [
+        {
+            "name": "Zion",
+            "visitors": 1814.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 37745.0
+        },
+        {
+            "name": "Yellowstone",
+            "visitors": 62261.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 169492.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 58362.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 18956.0
+        }
+    ],
+    "1920": [
+        {
+            "name": "Yellowstone",
+            "visitors": 79777.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 3692.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 240966.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 67315.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 68906.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 22449.0
+        }
+    ],
+    "1921": [
+        {
+            "name": "Yellowstone",
+            "visitors": 81651.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2937.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 273737.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 67485.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 91513.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 19736.0
+        }
+    ],
+    "1922": [
+        {
+            "name": "Yellowstone",
+            "visitors": 98223.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 4109.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 219164.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 84700.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 100506.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 23935.0
+        }
+    ],
+    "1923": [
+        {
+            "name": "Yellowstone",
+            "visitors": 138352.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 6408.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 218000.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 102166.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 130046.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 33988.0
+        }
+    ],
+    "1924": [
+        {
+            "name": "Yellowstone",
+            "visitors": 144158.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 8400.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 224211.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 108256.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 105894.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 33372.0
+        }
+    ],
+    "1925": [
+        {
+            "name": "Yellowstone",
+            "visitors": 154282.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 16817.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 233912.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 134053.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 209166.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 40063.0
+        }
+    ],
+    "1926": [
+        {
+            "name": "Yellowstone",
+            "visitors": 187807.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 21964.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 225027.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 140252.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 274209.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 37325.0
+        }
+    ],
+    "1927": [
+        {
+            "name": "Yellowstone",
+            "visitors": 200825.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 24303.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 229862.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 162356.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 490430.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 41745.0
+        }
+    ],
+    "1928": [
+        {
+            "name": "Yellowstone",
+            "visitors": 230984.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 30016.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 235057.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 167226.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 460619.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 53454.0
+        }
+    ],
+    "1929": [
+        {
+            "name": "Yellowstone",
+            "visitors": 260697.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 33383.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 274408.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 184093.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 461257.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 70742.0
+        }
+    ],
+    "1930": [
+        {
+            "name": "Yellowstone",
+            "visitors": 227901.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 55297.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 255874.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 172763.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 458566.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 73776.0
+        }
+    ],
+    "1931": [
+        {
+            "name": "Yellowstone",
+            "visitors": 221248.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 59186.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 265663.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 156964.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 461855.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 63497.0
+        }
+    ],
+    "1932": [
+        {
+            "name": "Yellowstone",
+            "visitors": 157624.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 51650.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 282980.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 121267.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 498289.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 53202.0
+        }
+    ],
+    "1933": [
+        {
+            "name": "Yellowstone",
+            "visitors": 161938.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 48763.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 291934.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 105475.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 296088.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 76715.0
+        }
+    ],
+    "1934": [
+        {
+            "name": "Yellowstone",
+            "visitors": 260775.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 68801.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 365392.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 140220.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 309431.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 116965.0
+        }
+    ],
+    "1935": [
+        {
+            "name": "Yellowstone",
+            "visitors": 317998.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 97280.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 367568.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 206018.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 372317.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 143240.0
+        }
+    ],
+    "1936": [
+        {
+            "name": "Yellowstone",
+            "visitors": 432570.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 124393.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 550496.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 268412.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 431192.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 210072.0
+        }
+    ],
+    "1937": [
+        {
+            "name": "Yellowstone",
+            "visitors": 499242.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 137404.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 651899.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 297876.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 481492.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 194522.0
+        }
+    ],
+    "1938": [
+        {
+            "name": "Yellowstone",
+            "visitors": 466185.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 149075.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 659802.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 336557.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 443325.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 153528.0
+        }
+    ],
+    "1939": [
+        {
+            "name": "Yellowstone",
+            "visitors": 486936.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 158063.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 609029.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 395940.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 466552.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 170073.0
+        }
+    ],
+    "1940": [
+        {
+            "name": "Yellowstone",
+            "visitors": 526437.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 165029.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 627847.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 371613.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 506781.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 177307.0
+        }
+    ],
+    "1941": [
+        {
+            "name": "Yellowstone",
+            "visitors": 579696.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 192805.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 681845.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 436566.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 597863.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 178449.0
+        }
+    ],
+    "1942": [
+        {
+            "name": "Yellowstone",
+            "visitors": 185746.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 68797.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 383670.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 132584.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 319816.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 62196.0
+        }
+    ],
+    "1943": [
+        {
+            "name": "Yellowstone",
+            "visitors": 61696.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 44089.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 124353.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 71650.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 116682.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 23908.0
+        }
+    ],
+    "1944": [
+        {
+            "name": "Yellowstone",
+            "visitors": 86593.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 42243.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 211953.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 64568.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 120494.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 35857.0
+        }
+    ],
+    "1945": [
+        {
+            "name": "Yellowstone",
+            "visitors": 189264.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 78280.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 356793.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 169960.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 290569.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 67942.0
+        }
+    ],
+    "1946": [
+        {
+            "name": "Yellowstone",
+            "visitors": 807917.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 212280.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 804588.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 486834.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 640483.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 200547.0
+        }
+    ],
+    "1947": [
+        {
+            "name": "Yellowstone",
+            "visitors": 937776.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 273953.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 923065.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 622363.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 777622.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 327300.0
+        }
+    ],
+    "1948": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1018279.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 297571.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1023262.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 618033.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 745899.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 284549.0
+        }
+    ],
+    "1949": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1131159.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 307881.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1148216.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 600690.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 808372.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 482208.0
+        }
+    ],
+    "1950": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1110524.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 323402.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1275160.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 665039.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 820953.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 482298.0
+        }
+    ],
+    "1951": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1163894.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 331079.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1167093.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 682152.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 858405.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 496142.0
+        }
+    ],
+    "1952": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1350295.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 352921.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1364503.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 737159.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 973971.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 649689.0
+        }
+    ],
+    "1953": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1326858.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 389445.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1420152.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 836878.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 969225.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 633480.0
+        }
+    ],
+    "1954": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1328900.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 416800.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1425600.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 814700.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 1008000.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 608200.0
+        }
+    ],
+    "1955": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1368500.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 406800.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1454000.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 892400.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 984200.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 674100.0
+        }
+    ],
+    "1956": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1457800.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 421200.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1587400.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1033700.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 1114200.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 718900.0
+        }
+    ],
+    "1957": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1595900.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 525100.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1508200.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1102400.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 1138700.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 759200.0
+        }
+    ],
+    "1958": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1442400.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 590700.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1478200.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1064000.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 1139300.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 706800.0
+        }
+    ],
+    "1959": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1408700.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 585000.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1459600.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1169400.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 1061500.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 722300.0
+        }
+    ],
+    "1960": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1443300.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 575800.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1532500.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1187700.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 1150400.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 724500.0
+        }
+    ],
+    "1961": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1524100.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 604700.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1538000.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1253000.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 1227100.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 740000.0
+        }
+    ],
+    "1962": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1925200.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 622100.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1773800.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1447400.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 1505500.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 966100.0
+        }
+    ],
+    "1963": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1872500.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 681100.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1855400.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1539500.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 1473400.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 810200.0
+        }
+    ],
+    "1964": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1929300.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 705200.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1885900.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1576600.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 1547000.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 642200.0
+        }
+    ],
+    "1965": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2062500.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 763600.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1619800.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1689200.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 1635400.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 847100.0
+        }
+    ],
+    "1966": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2130300.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 815200.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1865600.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1806000.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 1817100.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 907800.0
+        }
+    ],
+    "1967": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2210000.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 788400.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 1915200.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1804900.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2238300.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 884000.0
+        }
+    ],
+    "1968": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2229700.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 877100.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2187600.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1986300.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2281100.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 964500.0
+        }
+    ],
+    "1969": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2193700.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 904300.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2217200.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2192600.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2291300.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1051200.0
+        }
+    ],
+    "1970": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2297300.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 903600.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2357900.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2258200.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2277200.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1241600.0
+        }
+    ],
+    "1971": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2120500.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 897000.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2449900.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2402100.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2342200.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1302200.0
+        }
+    ],
+    "1972": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2236888.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 889417.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2513420.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2698300.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2190301.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1391299.0
+        }
+    ],
+    "1973": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2061700.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 993800.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2507600.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1909700.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2254300.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1397800.0
+        }
+    ],
+    "1974": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1928900.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 859300.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2489300.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 1888600.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2274600.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1405500.0
+        }
+    ],
+    "1975": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2239500.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1055200.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2842200.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2625100.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2537400.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1570000.0
+        }
+    ],
+    "1976": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2519200.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1090000.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2727900.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2791600.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2682400.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1661200.0
+        }
+    ],
+    "1977": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2481900.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1105900.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2882100.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2627200.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2392600.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1654500.0
+        }
+    ],
+    "1978": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2618380.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1193212.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 3024868.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2748642.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2569268.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1582632.0
+        }
+    ],
+    "1979": [
+        {
+            "name": "Yellowstone",
+            "visitors": 1892908.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1040528.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2568530.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2131716.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2350782.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1446086.0
+        }
+    ],
+    "1980": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2000269.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1123846.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2641937.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2304973.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2490282.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1474578.0
+        }
+    ],
+    "1981": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2521831.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1288808.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2911242.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2472270.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2516893.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1786523.0
+        }
+    ],
+    "1982": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2368897.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1246290.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2564116.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2293127.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2415587.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1666114.0
+        }
+    ],
+    "1983": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2347242.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1273030.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2599006.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2248082.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2457464.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2203847.0
+        }
+    ],
+    "1984": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2222027.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1377254.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2231448.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2173584.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2738467.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1946703.0
+        }
+    ],
+    "1985": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2226159.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1503272.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2248854.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 2711529.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2831952.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1603011.0
+        }
+    ],
+    "1986": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2363756.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1670503.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2408234.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 3035787.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 2876717.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1579151.0
+        }
+    ],
+    "1987": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2573194.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1777619.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2531864.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 3513030.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3152275.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1660737.0
+        }
+    ],
+    "1988": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2182113.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1948332.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2544211.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 3859886.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3216681.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1817733.0
+        }
+    ],
+    "1989": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2644442.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 1998856.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2502915.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 3966209.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3308159.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1821523.0
+        }
+    ],
+    "1990": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2823572.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2102400.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2647323.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 3776685.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3124939.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1986737.0
+        }
+    ],
+    "1991": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2920537.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2236997.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2751781.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 3886031.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3423101.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2096966.0
+        }
+    ],
+    "1992": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3144405.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2390626.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2788868.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4203545.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3819518.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2199767.0
+        }
+    ],
+    "1993": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2912193.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2392580.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2780342.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4575602.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3839645.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2141704.0
+        }
+    ],
+    "1994": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3046145.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2270871.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2968450.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4364316.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3962117.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2152989.0
+        }
+    ],
+    "1995": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3125285.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2430162.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2878169.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4557645.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3958406.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1839518.0
+        }
+    ],
+    "1996": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3012171.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2498001.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2923755.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4537703.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 4046207.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1720805.0
+        }
+    ],
+    "1997": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2889513.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2445534.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2965354.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4791668.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3669970.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1708856.0
+        }
+    ],
+    "1998": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3120830.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2370048.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 3035422.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4239682.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3657132.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1830944.0
+        }
+    ],
+    "1999": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3131381.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2449664.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 3186323.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4575124.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3493607.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1684604.0
+        }
+    ],
+    "2000": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2838233.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2432348.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 3185392.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4460228.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3400903.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1728693.0
+        }
+    ],
+    "2001": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2758526.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2217779.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 3139685.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4104809.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3368731.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1680614.0
+        }
+    ],
+    "2002": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2973677.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2592545.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2988475.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4001974.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3361867.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1905689.0
+        }
+    ],
+    "2003": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3019375.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2458792.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 3067256.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4124900.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3378664.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1664046.0
+        }
+    ],
+    "2004": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2868317.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2677342.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2781899.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4326234.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3280911.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2033933.0
+        }
+    ],
+    "2005": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2835651.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2586665.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2798368.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4401522.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3304144.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1925101.0
+        }
+    ],
+    "2006": [
+        {
+            "name": "Yellowstone",
+            "visitors": 2870295.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2567350.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2743676.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4279439.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3242644.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1964399.0
+        }
+    ],
+    "2007": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3151343.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2657281.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2895383.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4413668.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3503428.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2083329.0
+        }
+    ],
+    "2008": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3066580.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2690154.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2757390.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4425314.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3431514.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1808027.0
+        }
+    ],
+    "2009": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3295187.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2735402.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2822325.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4348068.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3737472.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2031348.0
+        }
+    ],
+    "2010": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3640185.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2665972.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2955821.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4388386.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3901408.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2200048.0
+        }
+    ],
+    "2011": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3394326.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2825505.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 3176941.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4298178.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3951393.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 1853564.0
+        }
+    ],
+    "2012": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3447729.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2973607.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 3229617.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4421352.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3853404.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2162035.0
+        }
+    ],
+    "2013": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3188030.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 2807387.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 2991141.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4564840.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3691191.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2190374.0
+        }
+    ],
+    "2014": [
+        {
+            "name": "Yellowstone",
+            "visitors": 3513484.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 3189696.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 3434751.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 4756771.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 3882642.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2338528.0
+        }
+    ],
+    "2015": [
+        {
+            "name": "Yellowstone",
+            "visitors": 4097710.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 3648846.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 4155916.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 5520736.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 4150217.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2366056.0
+        }
+    ],
+    "2016": [
+        {
+            "name": "Yellowstone",
+            "visitors": 4257177.0
+        },
+        {
+            "name": "Zion",
+            "visitors": 4295127.0
+        },
+        {
+            "name": "Rocky Mountain",
+            "visitors": 4517585.0
+        },
+        {
+            "name": "Grand Canyon",
+            "visitors": 5969811.0
+        },
+        {
+            "name": "Yosemite",
+            "visitors": 5028868.0
+        },
+        {
+            "name": "Glacier",
+            "visitors": 2946681.0
+        }
+    ]
+}
