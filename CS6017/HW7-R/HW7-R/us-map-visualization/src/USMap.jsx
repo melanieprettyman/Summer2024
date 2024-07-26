@@ -1,14 +1,10 @@
 import React, {useEffect, useState} from "react";
-import {geoCentroid} from "d3-geo";
 import {
     ComposableMap,
     Geographies,
     Geography,
     Marker,
-    Annotation,
 } from "react-simple-maps";
-
-import allStates from "./data/allstates.json";
 import Slider from "./Slider";
 import {Container, Stack, Typography} from "@mui/material";
 import visitorData from './national_parks_visitation2.json';
@@ -33,11 +29,10 @@ const initialParks = [
 const MapChart = () => {
 
     const getRadius = (visitorCount) => {
-        // Assuming 1814 is the minimum visitor count and 5967997 is the maximum visitor count from your dataset
         const minVisitors = 1814;
         const maxVisitors = 5967997;
-        const minRadius = 2; // Minimum radius for the circle
-        const maxRadius = 20; // Maximum radius for the circle
+        const minRadius = 2;
+        const maxRadius = 20;
         if (visitorCount === 0) return minRadius; // If no visitors, return minimum radius
         const scale = (visitorCount - minVisitors) / (maxVisitors - minVisitors);
         return minRadius + (maxRadius - minRadius) * scale;
@@ -63,10 +58,10 @@ const MapChart = () => {
     };
 
     return (
-        <Box sx={{ width: '100%', textAlign: 'center' }}>
-            <Typography variant="h4" sx={{ mb: 2 }}>National Park Visitors</Typography>
-            <Box sx={{ maxWidth: 300, margin: 'auto', mb: 4 }}>
-                <Slider setYear={setYear} />
+        <Box sx={{width: '100%', textAlign: 'center'}}>
+            <Typography variant="h4" sx={{mb: 2}}>National Park Visitors</Typography>
+            <Box sx={{maxWidth: 300, margin: 'auto', mb: 4}}>
+                <Slider setYear={setYear}/>
             </Box>
             <Stack direction={'row'}>
                 <Container sx={{width: '50%', height: 'auto'}}>

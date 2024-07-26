@@ -16,7 +16,6 @@ const marks = [
 ];
 
 export default function DiscreteSliderMarks({setYear}) {
-  // Initialize sliderValue to 80, which corresponds to 1984
   const [sliderValue, setSliderValue] = useState(80);
 
   function valuetext(value) {
@@ -35,10 +34,10 @@ export default function DiscreteSliderMarks({setYear}) {
       </Typography>
       <Slider
         aria-label="Year selector"
-        value={sliderValue} // Bind the slider value to the state
-        onChange={handleChange} // Update the state when the slider changes
-        getAriaValueText={valuetext} // Generate label text for the thumb
-        step={1} // Use a step of 1 for finer granularity
+        value={sliderValue}
+        onChange={handleChange}
+        getAriaValueText={valuetext}
+        step={1}
         marks={marks}
       />
     </Box>
