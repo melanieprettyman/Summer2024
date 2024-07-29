@@ -1,5 +1,4 @@
 import React from 'react';
-import USMap from './USMap';
 import MapChart from "./USMap";
 
 function App() {

@@ -3,7 +3,7 @@ import * as d3 from 'd3';
 
 const BarChart = ({data, year}) => {
     const ref = useRef();
-
+    //Update chart when year changes
     useEffect(() => {
         if (data[year]) {
             const visitorsData = data[year].slice().sort((a, b) => a.visitors - b.visitors);
