@@ -75,7 +75,6 @@ const D3Chart = () => {
     useEffect(() => {
         const svg = d3.select(svgRef.current).select(".markers-group");
 
-        // Append circles for markers
         svg.selectAll(".marker")
             .data(nationalParks)
             .join("circle")
@@ -85,15 +84,14 @@ const D3Chart = () => {
             .attr("r", d => getRadius(d.visitor))
             .attr("fill", "red");
 
-        // Append text for park names
         svg.selectAll(".park-name")
             .data(nationalParks)
             .join("text")
             .attr("class", "park-name")
             .attr("x", d => d.coordinates[0])
-            .attr("y", d => d.coordinates[1] - 10) // Adjust y-position to appear above the marker
+            .attr("y", d => d.coordinates[1] - 10) 
             .text(d => d.name)
-            .attr("text-anchor", "middle") // Center text on marker
+            .attr("text-anchor", "middle") 
             .style("font-size", "16px")
             .style("font-family", "Arial, sans-serif")
             .style("fill", "#333333");
