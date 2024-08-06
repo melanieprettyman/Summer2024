@@ -1,10 +1,12 @@
 import React from 'react';
+import USMap from './USMap';
 import MapChart from "./USMap";
+import D3Chart from "./D3Map";
 
 function App() {
   return (
     <div className="App">
-      <MapChart />
+      <D3Chart />
     </div>
   );
 }
